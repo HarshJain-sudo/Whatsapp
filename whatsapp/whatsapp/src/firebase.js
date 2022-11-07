@@ -1,8 +1,8 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyBW8F_6tQxOHc0e_ZYQHuiorLLvxyFeHIU",
-  authDomain: "whatsapp-mern-54fca.firebaseapp.com",
-  projectId: "whatsapp-mern-54fca",
-  storageBucket: "whatsapp-mern-54fca.appspot.com",
-  messagingSenderId: "697191317438",
-  appId: "1:697191317438:web:ba8568e4d7b8ea07b403ef"
+  apiKey: "AIzaSyCM2j-rDrdQ78lSvzRJpQBvvhJTUjO9Qoo",
+  authDomain: "whatsapp-bc7c3.firebaseapp.com",
+  projectId: "whatsapp-bc7c3",
+  storageBucket: "whatsapp-bc7c3.appspot.com",
+  messagingSenderId: "723533709572",
+  appId: "1:723533709572:web:f6b47da9b0fe203b2bd051"
 };
